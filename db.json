@@ -1,0 +1,25 @@
+
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Wings of Fire",
+      "author": "APJ Abdul Kalam",
+      "category": "Biography"
+    },
+    {
+      "id": 2,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "category": "Self-Help"
+    },
+    
+    {
+      "id": 3,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "category": "Finance"
+    }
+    
+  ]
+}
